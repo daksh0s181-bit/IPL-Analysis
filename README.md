@@ -41,16 +41,5 @@ Kaggle IPL Complete Dataset (2008–2023)
 
 ---
 
-## 📁 Project Structure
-ipl-analysis/
-│
-├── data/
-│   ├── matches.csv
-│   └── deliveries.csv
-│
-├── ipl_analysis.ipynb
-├── README.md
-└── images/
-    ├── toss_analysis.png
-    ├── top_performers.png
-    └── venue_analysis.png
+## Auther
+Daksh Sehgal
